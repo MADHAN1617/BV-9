@@ -1,4 +1,4 @@
-import os
+﻿import os
 
 dir_path = r"C:\Users\Madhan\.gemini\antigravity\scratch\navisights"
 js_path = os.path.join(dir_path, "assets", "index-86024637.js")
@@ -10,9 +10,9 @@ with open(js_path, 'r', encoding='utf-8') as f:
     js_content = f.read()
 
 # Safe string replacements
-js_content = js_content.replace('navisights2023@gmail.com', 'madhansekar537@gmail.com')
-js_content = js_content.replace('+919080168075', '+917530075710')
-js_content = js_content.replace('https://www.linkedin.com/in/sivanesh-k-s-6a9991218/', 'https://www.linkedin.com/in/madhan-sekar-b61870333')
+js_content = js_content.replace('madhansekar537@gmail\.com', 'madhansekar537@gmail.com')
+js_content = js_content.replace('\+917530075710', '+917530075710')
+js_content = js_content.replace('https://www.linkedin.com/in/madhan-sekar-b61870333/', 'https://www.linkedin.com/in/madhan-sekar-b61870333')
 js_content = js_content.replace('Navisights', 'BV 9')
 js_content = js_content.replace('NAVISIGHTS', 'BV 9')
 
@@ -38,3 +38,4 @@ with open(css_path, 'a', encoding='utf-8') as f:
     f.write(css_append)
 
 print("Safe patching complete!")
+

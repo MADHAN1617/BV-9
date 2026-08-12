@@ -1,4 +1,4 @@
---- Achievements Context ---
+﻿--- Achievements Context ---
 ed-md shadow-lg overflow-hidden",children:G.jsx("img",{className:"object-cover object-center",src:"/achievements/lion-club-1.png",alt:"lion-club"})})}),G.jsx(vn,{duration:1.2,children:G.jsx("div",{cla
 -----------------------
 --- Achievements Context ---
@@ -176,7 +176,7 @@ h(FF,"4.7.5","esm2017")})();const mwe={apiKey:"AIzaSyCmXGKkk7PesEsH8FGyHH59RYY1F
 ),G.jsx("div",{className:"p-4",children:G.jsx("img",{src:"/logo.png",className:"w-1/2 md:w-40",alt:"Navisights"})}),G.jsx("div",{className:`w-full md:w-auto z-20 transform transition-transform duratio
 -----------------------
 --- navisights Context ---
-assName:"text-white md:hidden",children:r.icon}),r.name]},s))})]})},vwe=()=>{const n=[{link:"mailto:navisights2023@gmail.com",name:"Email",icon:G.jsx(Ype,{strokeWidth:1})},{link:"tel:+919080168075",na
+assName:"text-white md:hidden",children:r.icon}),r.name]},s))})]})},vwe=()=>{const n=[{link:"mailto:madhansekar537@gmail\.com",name:"Email",icon:G.jsx(Ype,{strokeWidth:1})},{link:"tel:\+917530075710",na
 -----------------------
 --- navisights Context ---
 h-k-s-6a9991218/",name:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"https://www.instagram.com/navisights/",name:"Instagram",icon:G.jsx(Kpe,{strokeWidth:1})},{link:"https://www.youtube.com/watch?
@@ -188,7 +188,7 @@ d:text-left place-self-center",children:[G.jsx("img",{src:"/logo.png",className:
 lassName:"size-10 md:size-14"})}),n&&G.jsx("iframe",{src:"https://www.blackbox.ai/agent/NexGenTrike-NaviSightso4vcFhb",width:"100%",className:"h-screen w-full absolute z-40 overflow-hidden"})]})};func
 -----------------------
 --- 9080168075 Context ---
-{link:"mailto:navisights2023@gmail.com",name:"Email",icon:G.jsx(Ype,{strokeWidth:1})},{link:"tel:+919080168075",name:"Phone",icon:G.jsx(eme,{strokeWidth:1})},{link:"https://www.facebook.com",name:"Fac
+{link:"mailto:madhansekar537@gmail\.com",name:"Email",icon:G.jsx(Ype,{strokeWidth:1})},{link:"tel:\+917530075710",name:"Phone",icon:G.jsx(eme,{strokeWidth:1})},{link:"https://www.facebook.com",name:"Fac
 -----------------------
 --- Instagram Context ---
 he ISC license.
@@ -196,7 +196,7 @@ he ISC license.
  */const Kpe=Xi("Instagram",[["rect",{width:"20",height:"20",x:"2",y:"2",rx:"5",ry:"5",key:"2e1cvw"}],["path",{d:"M16
 -----------------------
 --- Instagram Context ---
-com/in/sivanesh-k-s-6a9991218/",name:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"https://www.instagram.com/navisights/",name:"Instagram",icon:G.jsx(Kpe,{strokeWidth:1})},{link:"https://www.yout
+com/in/madhan-sekar-b61870333/",name:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"https://www.instagram.com/navisights/",name:"Instagram",icon:G.jsx(Kpe,{strokeWidth:1})},{link:"https://www.yout
 -----------------------
 --- Instagram Context ---
 ame:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"https://www.instagram.com/navisights/",name:"Instagram",icon:G.jsx(Kpe,{strokeWidth:1})},{link:"https://www.youtube.com/watch?v=QjQQ6QvxTto",name
@@ -207,8 +207,9 @@ he ISC license.
  */const Xpe=Xi("Linkedin",[["path",{d:"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6
 -----------------------
 --- linkedin Context ---
-link:"https://www.facebook.com",name:"Facebook",icon:G.jsx(jpe,{strokeWidth:1})},{link:"https://www.linkedin.com/in/sivanesh-k-s-6a9991218/",name:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"htt
+link:"https://www.facebook.com",name:"Facebook",icon:G.jsx(jpe,{strokeWidth:1})},{link:"https://www.linkedin.com/in/madhan-sekar-b61870333/",name:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"htt
 -----------------------
 --- linkedin Context ---
-,icon:G.jsx(jpe,{strokeWidth:1})},{link:"https://www.linkedin.com/in/sivanesh-k-s-6a9991218/",name:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"https://www.instagram.com/navisights/",name:"Insta
+,icon:G.jsx(jpe,{strokeWidth:1})},{link:"https://www.linkedin.com/in/madhan-sekar-b61870333/",name:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"https://www.instagram.com/navisights/",name:"Insta
 -----------------------
+

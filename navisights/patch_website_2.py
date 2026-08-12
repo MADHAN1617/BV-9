@@ -1,4 +1,4 @@
-import os
+﻿import os
 import re
 
 dir_path = r"C:\Users\Madhan\.gemini\antigravity\scratch\navisights"
@@ -8,9 +8,9 @@ with open(js_path, 'r', encoding='utf-8') as f:
     text = f.read()
 
 # Safe replacements for contact info
-text = text.replace("navisights2023@gmail.com", "madhansekar537@gmail.com")
-text = text.replace("+919080168075", "+917530075710")
-text = text.replace("https://www.linkedin.com/in/sivanesh-k-s-6a9991218/", "https://www.linkedin.com/in/madhan-sekar-b61870333")
+text = text.replace("madhansekar537@gmail\.com", "madhansekar537@gmail.com")
+text = text.replace("\+917530075710", "+917530075710")
+text = text.replace("https://www.linkedin.com/in/madhan-sekar-b61870333/", "https://www.linkedin.com/in/madhan-sekar-b61870333")
 
 # Replace Display name
 text = text.replace("Navisights", "BV 9")
@@ -31,3 +31,4 @@ with open(js_path, 'w', encoding='utf-8') as f:
     f.write(text)
 
 print("Patching JS complete!")
+

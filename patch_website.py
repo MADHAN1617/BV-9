@@ -1,4 +1,4 @@
-import os
+﻿import os
 import re
 
 dir_path = r"C:\Users\Madhan\.gemini\antigravity\scratch\navisights"
@@ -31,9 +31,9 @@ def patch_content(text):
     
     # Replace contacts
     text = text.replace("bv 92023@gmail.com", "madhansekar537@gmail.com")
-    text = text.replace("navisights2023@gmail.com", "madhansekar537@gmail.com")
-    text = text.replace("+919080168075", "+917530075710")
-    text = text.replace("https://www.linkedin.com/in/sivanesh-k-s-6a9991218/", "https://www.linkedin.com/in/madhan-sekar-b61870333")
+    text = text.replace("madhansekar537@gmail\.com", "madhansekar537@gmail.com")
+    text = text.replace("\+917530075710", "+917530075710")
+    text = text.replace("https://www.linkedin.com/in/madhan-sekar-b61870333/", "https://www.linkedin.com/in/madhan-sekar-b61870333")
     
     # Remove navigation items
     # The pattern is something like {path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},
@@ -58,3 +58,4 @@ with open(html_path, 'w', encoding='utf-8') as f:
     f.write(html_content_patched)
 
 print("Patching complete!")
+

@@ -1,4 +1,4 @@
-import os
+﻿import os
 
 dir_path = r"C:\Users\Madhan\.gemini\antigravity\scratch\navisights"
 js_path = os.path.join(dir_path, "assets", "index-86024637.js")
@@ -18,9 +18,9 @@ with open(js_path, 'r', encoding='utf-8') as f:
     js = f.read()
 
 # Contact info
-js = js.replace('navisights2023@gmail.com', 'madhansekar537@gmail.com')
-js = js.replace('+919080168075', '+917530075710')
-js = js.replace('https://www.linkedin.com/in/sivanesh-k-s-6a9991218/', 'https://www.linkedin.com/in/madhan-sekar-b61870333')
+js = js.replace('madhansekar537@gmail\.com', 'madhansekar537@gmail.com')
+js = js.replace('\+917530075710', '+917530075710')
+js = js.replace('https://www.linkedin.com/in/madhan-sekar-b61870333/', 'https://www.linkedin.com/in/madhan-sekar-b61870333')
 
 # Visible names only
 js = js.replace('About Navisights', 'About BV 9')
@@ -32,3 +32,4 @@ with open(js_path, 'w', encoding='utf-8') as f:
     f.write(js)
 
 print("Safest patch applied!")
+
