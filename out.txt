@@ -1,0 +1,214 @@
+--- Achievements Context ---
+ed-md shadow-lg overflow-hidden",children:G.jsx("img",{className:"object-cover object-center",src:"/achievements/lion-club-1.png",alt:"lion-club"})})}),G.jsx(vn,{duration:1.2,children:G.jsx("div",{cla
+-----------------------
+--- Achievements Context ---
+ed-md shadow-lg overflow-hidden",children:G.jsx("img",{className:"object-cover object-center",src:"/achievements/lion-club-2.png",alt:"lion-club"})})}),G.jsx(vn,{duration:1.3,children:G.jsx("div",{cla
+-----------------------
+--- Achievements Context ---
+ed-md shadow-lg overflow-hidden",children:G.jsx("img",{className:"object-cover object-center",src:"/achievements/lion-club-3.png",alt:"lion-club"})})}),G.jsx(vn,{duration:1.4,children:G.jsx("div",{cla
+-----------------------
+--- Achievements Context ---
+ed-md shadow-lg overflow-hidden",children:G.jsx("img",{className:"object-cover object-center",src:"/achievements/lion-club-4.png",alt:"lion-club"})})})]}),G.jsx(vn,{duration:1.1,children:G.jsx("div",{
+-----------------------
+--- Achievements Context ---
+hadow-lg overflow-hidden",children:G.jsx("img",{className:"object-cover w-full object-center",src:"/achievements/lion-club-0.png",alt:"lion-club"})})}),G.jsx(vn,{duration:.7,children:G.jsx("h1",{class
+-----------------------
+--- Achievements Context ---
+or, NAVISIGHTS secured initial funding and invaluable support for their visionary startup.",image:"/achievements/itic-incubator-hyderabad.jpg"},{title:"IMPAIRATHON 2024 Top 3",description:"Our team se
+-----------------------
+--- Achievements Context ---
+gineering. We were honored with a cash prize of ₹30,000 in recognition of our achievement.",image:"/achievements/impairathon-2024.jpg"},{title:"NAVISIGHTS Impresses at Startnet Salem",description:"NAV
+-----------------------
+--- Achievements Context ---
+t Startnet Salem, presenting a game-changing startup poised to revolutionize the industry.",image:"/achievements/starnet-salem.jpg"},{title:"NIT Trichy Top 5 Winners",description:"",image:"/achievemen
+-----------------------
+--- Achievements Context ---
+",image:"/achievements/starnet-salem.jpg"},{title:"NIT Trichy Top 5 Winners",description:"",image:"/achievements/top-5-nitt.jpg"},{title:"",description:"Our team received recognition from Sri C. Valli
+-----------------------
+--- Achievements Context ---
+received recognition from Sri C. Valliappa, Chairman of Sona Group of Institutions, Salem.",image:"/achievements/sona-college.jpg"},{title:"SOLVEATHON OVERALL CHAMPION Sri Sairam Engineering College",
+-----------------------
+--- Achievements Context ---
+ge.jpg"},{title:"SOLVEATHON OVERALL CHAMPION Sri Sairam Engineering College",description:"",image:"/achievements/solveathon-overall.jpg"},{title:"NAVISIGHTS in BUILD Program Bootcamp",description:"NAV
+-----------------------
+--- Achievements Context ---
+IT Hyderabad, further solidifying their position as a trailblazer in the startup ecosystem",image:"/achievements/build-iit-hyderabad.jpg"},{title:"NAVISIGHTS Soars at MEPC USC",description:"NAVISIGHTS
+-----------------------
+--- Achievements Context ---
+ty of Southern California, showcasing unparalleled innovation and entrepreneurial prowess.",image:"/achievements/mepc-usa.jpg"},{title:"NAVISIGHTS Shines at VIT CHENNAI",description:"Stealing the spot
+-----------------------
+--- Achievements Context ---
+AVISIGHTS emerged triumphant with pioneering ideas that redefine the future of technology.",image:"/achievements/innoventure-vit-chennai-2023.jpg"}],Vpe=()=>G.jsx("div",{className:'relative text-white
+-----------------------
+--- Achievements Context ---
+3 px-4 mx-auto space-y-6",children:[G.jsx("h1",{className:"text-5xl font-afacad-flux",children:"Our Achievements"}),G.jsx("hr",{className:"border-dashed"}),G.jsx("div",{className:"space-y-6",children:
+-----------------------
+--- Achievements Context ---
+icon:G.jsx(Ib,{strokeWidth:1})},{path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},{path:"/achievements",name:"Achievements",icon:G.jsx(Pb,{strokeWidth:1})},{path:"/profile",name:"My Profile"
+-----------------------
+--- Achievements Context ---
+eWidth:1})},{path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},{path:"/achievements",name:"Achievements",icon:G.jsx(Pb,{strokeWidth:1})},{path:"/profile",name:"My Profile",icon:G.jsx(qpe,{str
+-----------------------
+--- Achievements Context ---
+icon:G.jsx(Ib,{strokeWidth:1})},{path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},{path:"/achievements",name:"Achievements",icon:G.jsx(Pb,{strokeWidth:1})},{path:"/signup",name:"Sign Up",ico
+-----------------------
+--- Achievements Context ---
+eWidth:1})},{path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},{path:"/achievements",name:"Achievements",icon:G.jsx(Pb,{strokeWidth:1})},{path:"/signup",name:"Sign Up",icon:G.jsx(nme,{strokeW
+-----------------------
+--- Achievements Context ---
+icon:G.jsx(Ib,{strokeWidth:1})},{path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},{path:"/achievements",name:"Achievements",icon:G.jsx(Pb,{strokeWidth:1})}],t=()=>{window.scrollTo({top:0,beh
+-----------------------
+--- Achievements Context ---
+eWidth:1})},{path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},{path:"/achievements",name:"Achievements",icon:G.jsx(Pb,{strokeWidth:1})}],t=()=>{window.scrollTo({top:0,behavior:"smooth"})};re
+-----------------------
+--- Achievements Context ---
+th:"product",element:G.jsx(Npe,{})}),G.jsx(cl,{path:"about",element:G.jsx(Upe,{})}),G.jsx(cl,{path:"achievements",element:G.jsx(Vpe,{})}),G.jsx(cl,{path:"signup",element:G.jsx(Lwe,{})}),G.jsx(cl,{path
+-----------------------
+--- About Context ---
+5xl font-semibold text-transparent bg-gradient-to-tr from-purple-800 to-red bg-clip-text",children:"About Navisights"})}),G.jsx(vn,{duration:1,children:G.jsx("p",{className:"font-cormorant-garamond te
+-----------------------
+--- About Context ---
+morant-garamond text-xl",children:"We are Team Navisights, a dynamic group of innovators passionate about solving real-world mobility challenges through cutting-edge technology. Our team combines auto
+-----------------------
+--- About Context ---
+:G.jsx(Rb,{strokeWidth:1})},{path:"/product",name:"Product",icon:G.jsx(Ib,{strokeWidth:1})},{path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},{path:"/achievements",name:"Achievements",icon:G
+-----------------------
+--- About Context ---
+rokeWidth:1})},{path:"/product",name:"Product",icon:G.jsx(Ib,{strokeWidth:1})},{path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},{path:"/achievements",name:"Achievements",icon:G.jsx(Pb,{stro
+-----------------------
+--- About Context ---
+:G.jsx(Rb,{strokeWidth:1})},{path:"/product",name:"Product",icon:G.jsx(Ib,{strokeWidth:1})},{path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},{path:"/achievements",name:"Achievements",icon:G
+-----------------------
+--- About Context ---
+rokeWidth:1})},{path:"/product",name:"Product",icon:G.jsx(Ib,{strokeWidth:1})},{path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},{path:"/achievements",name:"Achievements",icon:G.jsx(Pb,{stro
+-----------------------
+--- About Context ---
+:G.jsx(Rb,{strokeWidth:1})},{path:"/product",name:"Product",icon:G.jsx(Ib,{strokeWidth:1})},{path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},{path:"/achievements",name:"Achievements",icon:G
+-----------------------
+--- About Context ---
+rokeWidth:1})},{path:"/product",name:"Product",icon:G.jsx(Ib,{strokeWidth:1})},{path:"/about",name:"About",icon:G.jsx(Db,{strokeWidth:1})},{path:"/achievements",name:"Achievements",icon:G.jsx(Pb,{stro
+-----------------------
+--- About Context ---
+"services",element:G.jsx(qfe,{})}),G.jsx(cl,{path:"product",element:G.jsx(Npe,{})}),G.jsx(cl,{path:"about",element:G.jsx(Upe,{})}),G.jsx(cl,{path:"achievements",element:G.jsx(Vpe,{})}),G.jsx(cl,{path:
+-----------------------
+--- Services Context ---
+tateChanged(r=>{r&&r.emailVerified?i([{path:"/",name:"Home",icon:G.jsx(Lb,{strokeWidth:1})},{path:"/services",name:"Services",icon:G.jsx(Rb,{strokeWidth:1})},{path:"/product",name:"Product",icon:G.jsx
+-----------------------
+--- Services Context ---
+r&&r.emailVerified?i([{path:"/",name:"Home",icon:G.jsx(Lb,{strokeWidth:1})},{path:"/services",name:"Services",icon:G.jsx(Rb,{strokeWidth:1})},{path:"/product",name:"Product",icon:G.jsx(Ib,{strokeWidth
+-----------------------
+--- Services Context ---
+icon:G.jsx(qpe,{strokeWidth:1})}]):i([{path:"/",name:"Home",icon:G.jsx(Lb,{strokeWidth:1})},{path:"/services",name:"Services",icon:G.jsx(Rb,{strokeWidth:1})},{path:"/product",name:"Product",icon:G.jsx
+-----------------------
+--- Services Context ---
+strokeWidth:1})}]):i([{path:"/",name:"Home",icon:G.jsx(Lb,{strokeWidth:1})},{path:"/services",name:"Services",icon:G.jsx(Rb,{strokeWidth:1})},{path:"/product",name:"Product",icon:G.jsx(Ib,{strokeWidth
+-----------------------
+--- Services Context ---
+,icon:G.jsx(rme,{strokeWidth:1})}],e=[{path:"/",name:"Home",icon:G.jsx(Lb,{strokeWidth:1})},{path:"/services",name:"Services",icon:G.jsx(Rb,{strokeWidth:1})},{path:"/product",name:"Product",icon:G.jsx
+-----------------------
+--- Services Context ---
+{strokeWidth:1})}],e=[{path:"/",name:"Home",icon:G.jsx(Lb,{strokeWidth:1})},{path:"/services",name:"Services",icon:G.jsx(Rb,{strokeWidth:1})},{path:"/product",name:"Product",icon:G.jsx(Ib,{strokeWidth
+-----------------------
+--- Services Context ---
+path:"/",element:G.jsx(Rwe,{}),children:[G.jsx(cl,{index:!0,element:G.jsx(jfe,{})}),G.jsx(cl,{path:"services",element:G.jsx(qfe,{})}),G.jsx(cl,{path:"product",element:G.jsx(Npe,{})}),G.jsx(cl,{path:"a
+-----------------------
+--- navisights Context ---
+,J.createElement("primitive",Sb({ref:h,object:z,enableDamping:r},c))}),Hfe=()=>{const{scene:n}=wS("/navisights-trike/navisights_trike_assy_file.gltf");return G.jsx("primitive",{rotation:[0,1.3,0],obje
+-----------------------
+--- navisights Context ---
+"primitive",Sb({ref:h,object:z,enableDamping:r},c))}),Hfe=()=>{const{scene:n}=wS("/navisights-trike/navisights_trike_assy_file.gltf");return G.jsx("primitive",{rotation:[0,1.3,0],object:n,scale:30,pos
+-----------------------
+--- navisights Context ---
+endence and empowerment."}),G.jsx("p",{className:"font-cormorant-garamond text-xl",children:`At S&S Navisights, we're committed to revolutionizing mobility solutions for all. Our mission is to ignite 
+-----------------------
+--- navisights Context ---
+nt-semibold text-transparent bg-gradient-to-tr from-purple-800 to-red bg-clip-text",children:"About Navisights"})}),G.jsx(vn,{duration:1,children:G.jsx("p",{className:"font-cormorant-garamond text-xl"
+-----------------------
+--- navisights Context ---
+n,{duration:1,children:G.jsx("p",{className:"font-cormorant-garamond text-xl",children:"We are Team Navisights, a dynamic group of innovators passionate about solving real-world mobility challenges th
+-----------------------
+--- navisights Context ---
+ we introduced our product, their positive response was overwhelming. In light of this, our team at NaviSights has committed to supporting them on a weekly and monthly basis, using whatever minimal fu
+-----------------------
+--- navisights Context ---
+x(vn,{duration:1.2,children:G.jsx("p",{className:"font-cormorant-garamond text-xl",children:`At S&S Navisights, we're committed to revolutionizing mobility solutions for all. Our mission is to ignite 
+-----------------------
+--- navisights Context ---
+sx("p",{className:"font-cormorant-garamond",children:n.description})]})},e))})]})})]}),zpe=[{title:"NAVISIGHTS Recognized by IIT Hyderabad",description:"Recognized among the elite 75 winners of the BU
+-----------------------
+--- navisights Context ---
+tion:"Recognized among the elite 75 winners of the BUILD Program by IIT Hyderabad's ITIC Incubator, NAVISIGHTS secured initial funding and invaluable support for their visionary startup.",image:"/achi
+-----------------------
+--- navisights Context ---
+ of ₹30,000 in recognition of our achievement.",image:"/achievements/impairathon-2024.jpg"},{title:"NAVISIGHTS Impresses at Startnet Salem",description:"NAVISIGHTS dazzled entrepreneurs at Startnet Sa
+-----------------------
+--- navisights Context ---
+:"/achievements/impairathon-2024.jpg"},{title:"NAVISIGHTS Impresses at Startnet Salem",description:"NAVISIGHTS dazzled entrepreneurs at Startnet Salem, presenting a game-changing startup poised to rev
+-----------------------
+--- navisights Context ---
+ri Sairam Engineering College",description:"",image:"/achievements/solveathon-overall.jpg"},{title:"NAVISIGHTS in BUILD Program Bootcamp",description:"NAVISIGHTS earned a coveted spot in the BUILD Pro
+-----------------------
+--- navisights Context ---
+:"/achievements/solveathon-overall.jpg"},{title:"NAVISIGHTS in BUILD Program Bootcamp",description:"NAVISIGHTS earned a coveted spot in the BUILD Program's orientation bootcamp at IIT Hyderabad, furth
+-----------------------
+--- navisights Context ---
+n as a trailblazer in the startup ecosystem",image:"/achievements/build-iit-hyderabad.jpg"},{title:"NAVISIGHTS Soars at MEPC USC",description:"NAVISIGHTS soared as a top 15 team at the prestigious Mas
+-----------------------
+--- navisights Context ---
+",image:"/achievements/build-iit-hyderabad.jpg"},{title:"NAVISIGHTS Soars at MEPC USC",description:"NAVISIGHTS soared as a top 15 team at the prestigious Maseeh Entrepreneurship Prize Competition (MEP
+-----------------------
+--- navisights Context ---
+g unparalleled innovation and entrepreneurial prowess.",image:"/achievements/mepc-usa.jpg"},{title:"NAVISIGHTS Shines at VIT CHENNAI",description:"Stealing the spotlight at VIT CHENNAI's INNOVENTURE, 
+-----------------------
+--- navisights Context ---
+NAVISIGHTS Shines at VIT CHENNAI",description:"Stealing the spotlight at VIT CHENNAI's INNOVENTURE, NAVISIGHTS emerged triumphant with pioneering ideas that redefine the future of technology.",image:"
+-----------------------
+--- navisights Context ---
+h(FF,"4.7.5","esm2017")})();const mwe={apiKey:"AIzaSyCmXGKkk7PesEsH8FGyHH59RYY1FM1O6Ag",authDomain:"navisights-51596.firebaseapp.com",projectId:"navisights-51596",storageBucket:"navisights-51596.fireb
+-----------------------
+--- navisights Context ---
+:"AIzaSyCmXGKkk7PesEsH8FGyHH59RYY1FM1O6Ag",authDomain:"navisights-51596.firebaseapp.com",projectId:"navisights-51596",storageBucket:"navisights-51596.firebasestorage.app",messagingSenderId:"1026475375
+-----------------------
+--- navisights Context ---
+1FM1O6Ag",authDomain:"navisights-51596.firebaseapp.com",projectId:"navisights-51596",storageBucket:"navisights-51596.firebasestorage.app",messagingSenderId:"1026475375338",appId:"1:1026475375338:web:d
+-----------------------
+--- navisights Context ---
+),G.jsx("div",{className:"p-4",children:G.jsx("img",{src:"/logo.png",className:"w-1/2 md:w-40",alt:"Navisights"})}),G.jsx("div",{className:`w-full md:w-auto z-20 transform transition-transform duratio
+-----------------------
+--- navisights Context ---
+assName:"text-white md:hidden",children:r.icon}),r.name]},s))})]})},vwe=()=>{const n=[{link:"mailto:navisights2023@gmail.com",name:"Email",icon:G.jsx(Ype,{strokeWidth:1})},{link:"tel:+919080168075",na
+-----------------------
+--- navisights Context ---
+h-k-s-6a9991218/",name:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"https://www.instagram.com/navisights/",name:"Instagram",icon:G.jsx(Kpe,{strokeWidth:1})},{link:"https://www.youtube.com/watch?
+-----------------------
+--- navisights Context ---
+d:text-left place-self-center",children:[G.jsx("img",{src:"/logo.png",className:"w-44 mx-auto",alt:"Navisights"}),G.jsx("h1",{className:"text-sm",children:"Copyrights 2024 © All rights reserved."})]})
+-----------------------
+--- navisights Context ---
+lassName:"size-10 md:size-14"})}),n&&G.jsx("iframe",{src:"https://www.blackbox.ai/agent/NexGenTrike-NaviSightso4vcFhb",width:"100%",className:"h-screen w-full absolute z-40 overflow-hidden"})]})};func
+-----------------------
+--- 9080168075 Context ---
+{link:"mailto:navisights2023@gmail.com",name:"Email",icon:G.jsx(Ype,{strokeWidth:1})},{link:"tel:+919080168075",name:"Phone",icon:G.jsx(eme,{strokeWidth:1})},{link:"https://www.facebook.com",name:"Fac
+-----------------------
+--- Instagram Context ---
+he ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const Kpe=Xi("Instagram",[["rect",{width:"20",height:"20",x:"2",y:"2",rx:"5",ry:"5",key:"2e1cvw"}],["path",{d:"M16
+-----------------------
+--- Instagram Context ---
+com/in/sivanesh-k-s-6a9991218/",name:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"https://www.instagram.com/navisights/",name:"Instagram",icon:G.jsx(Kpe,{strokeWidth:1})},{link:"https://www.yout
+-----------------------
+--- Instagram Context ---
+ame:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"https://www.instagram.com/navisights/",name:"Instagram",icon:G.jsx(Kpe,{strokeWidth:1})},{link:"https://www.youtube.com/watch?v=QjQQ6QvxTto",name
+-----------------------
+--- linkedin Context ---
+he ISC license.
+ * See the LICENSE file in the root directory of this source tree.
+ */const Xpe=Xi("Linkedin",[["path",{d:"M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-2-2 2 2 0 0 0-2 2v7h-4v-7a6 6 0 0 1 6-6
+-----------------------
+--- linkedin Context ---
+link:"https://www.facebook.com",name:"Facebook",icon:G.jsx(jpe,{strokeWidth:1})},{link:"https://www.linkedin.com/in/sivanesh-k-s-6a9991218/",name:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"htt
+-----------------------
+--- linkedin Context ---
+,icon:G.jsx(jpe,{strokeWidth:1})},{link:"https://www.linkedin.com/in/sivanesh-k-s-6a9991218/",name:"LinkedIn",icon:G.jsx(Xpe,{strokeWidth:1})},{link:"https://www.instagram.com/navisights/",name:"Insta
+-----------------------
